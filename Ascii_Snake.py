@@ -9,4 +9,4 @@ for n in range(0,380):
     # system("cls")
     print(" "*int(x)+"▒█▒ KASHIF ▒█▒")
     # print(" "*int(65-x)+"▒█▒ KASHIF ▒█▒ ")
-    sleep(0.01)
+    sleep(0.04)
