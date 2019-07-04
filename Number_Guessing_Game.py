@@ -15,7 +15,3 @@ if g == ''.join(numbers):
 else:
     print("You Lose!!!!")
     print("It was : "+''.join(numbers))
-
-
-    
-
