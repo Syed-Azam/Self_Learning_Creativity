@@ -7,12 +7,13 @@
 
 | S.No. | Description |
 | ----- | ----------- |
-| 1 | Phone Number Format |
-| 2 | Sum of Parts of a List (See Description) |
-| 3 | Range Extraction |
-| 4 | Guess the Number Game (A Self-Made Challenge) |
-| 5 | TicTocToe Game Concept & Design by https://github.com/phaizi |
-| 6 | {1 = 'A', 2 = 'B'.................26 = 'Z'} |
+| 1 | Animated Text | Ascii_Snake.py |
+| 2 | Email format validity | Email_Verification.py |
+| 3 | PIAIC Ascii Text Ticker | PIAIC_Ticker.py |
+| 4 | Guess the Number Game | Number_Guessing_Game.py |
+| 5 | A Pattern Generator using Recursion | Pattern_using_Recursion.py |
+| 6 | Reverse key:value pair in a dictionary | Reverse_Key_Value_Pair_in_Dict.py
+| 7 | Countries Information Quiz | Country.py & Countries.csv |
 
 
 ## Code style
