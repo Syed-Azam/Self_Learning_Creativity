@@ -1,4 +1,4 @@
-![Picture](https://i.ibb.co/jH9TFG5/Logo-PIAIC-fb7de414.png)
+![Picture](https://i.ibb.co/QfDSVj8/c.jpg)
 **Presidential Initiative for Artificial Intelligence and Computing**
 
 ## **Self Learning**
