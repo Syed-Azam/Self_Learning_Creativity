@@ -5,8 +5,8 @@
 
 ### Project Files
 
-| S.No. | Description |
-| ----- | ----------- |
+| S.No. | Description | File |
+| ----- | ----------- | ---- |
 | 1 | Animated Text | Ascii_Snake.py |
 | 2 | Email format validity | Email_Verification.py |
 | 3 | PIAIC Ascii Text Ticker | PIAIC_Ticker.py |
