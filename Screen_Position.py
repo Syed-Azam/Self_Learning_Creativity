@@ -9,10 +9,11 @@ def move (y, x):
 x = 0
 y = 0
 
-for n in range(5000):
+
+for n in range(1900):
 	move(y, x)
-	print("█")
-	sleep(0.01)
+	print("█" if x%2 else "#")
+	for ps in range(20000): pass
 	x = x + 1
 	if x > 78:
 		x = 0
